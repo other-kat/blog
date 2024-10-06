@@ -4,7 +4,7 @@ title: posts
 permalink: /posts/
 ---
 
-<h2><a href="https://blog.otherkat.com>home">home</a></h2>
+<h2><a href="https://blog.otherkat.com">home</a></h2>
 <h2>posts -- </h2>
  <div id="post">
 		{% assign posts = site.posts | sort: date | reverse %}
