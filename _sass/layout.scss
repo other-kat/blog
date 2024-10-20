@@ -7,7 +7,7 @@ main {
    word-spacing: 5px;
    Padding: 2px;
    font-size: smaller;
-   font-size: 2vw;
+   font-size: clamp(1rem, 2vw + 1rem, 4rem);
    color: #FFFFFF;
    background-color: #1e1e1e;
    font-family: Helvetica;
@@ -18,7 +18,7 @@ body {
    word-spacing: 30px;
    margin-left: 5px;
    font-size:medium;
-   font-size: 2vw;
+   font-size: clamp(1rem, 2vw + 1rem, 4rem);
    padding: 10px;
    background-color: #1e1e1e;
    font-family: Helvetica;
@@ -29,7 +29,7 @@ alert {
    word-spacing: 30px;
    margin-left: 5px;
    font-size:medium;
-   font-size: 2vw;
+   font-size: clamp(1rem, 2vw + 1rem, 4rem);
    padding: 10px;
    background-color: #1e1e1e;
    font-family: Helvetica;
@@ -39,7 +39,7 @@ nav a {
    color: #FFFFFF;
    text-decoration: none;
    font-size: larger;
-   font-size: 2vw;
+   font-size: clamp(2rem, 5vw + 1rem, 7rem);
 }
 a {
    color: #add8e6;
@@ -47,13 +47,13 @@ a {
 .profile h1 {
    text-align: center;
    background-color: #f5f5dc;
-   font-size: 2vw;
+   font-size: clamp(2rem, 5vw + 1rem, 7rem);
 }
 /*footer style*/
 footer {
    text-align: left; 
    font-size: smaller;
-   font-size: 2vw;
+   font-size: clamp(1rem, 2vw + 1rem, 4rem);
    padding: 20px;
    color: #FFFFFF;
    font-family: Helvetica;
@@ -64,7 +64,7 @@ article {
    word-spacing: 5px;
    Padding: 2px;
    font-size: smaller;
-   font-size: 2vw;
+   font-size: clamp(1rem, 2vw + 1rem, 4rem);
    color: #FFFFFF;
    background-color: #1e1e1e;
    font-family: Helvetica;
