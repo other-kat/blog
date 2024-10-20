@@ -3,6 +3,7 @@ layout: post
 title:  "protest touches"
 date:   2024-09-27 22:23:35 +0100
 categories: blog
+status: published
 ---
 
 Curiosity - at a Palestine / Lebanon protest, me and my partner had two encounters that sparked an interesting confluence. One was with a friend of my partners, she’d just had a long term break up and we had a long chat about the difficulties of transitional time. How everything can feel so in flux and flimsy in those moments. We said this having both had break ups from 7 year relationships prior to finding each other. It felt healing.
