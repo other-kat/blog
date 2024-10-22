@@ -7,7 +7,7 @@ main {
    word-spacing: 5px;
    Padding: 2px;
    font-size: smaller;
-   font-size: clamp(2rem, 5vw + 1rem, 7rem);
+   font-size: 2vw;
    color: #FFFFFF;
    background-color: #1e1e1e;
    font-family: Helvetica;
@@ -18,18 +18,7 @@ body {
    word-spacing: 30px;
    margin-left: 5px;
    font-size:medium;
-   font-size: clamp(2rem, 5vw + 1rem, 7rem);
-   padding: 10px;
-   background-color: #1e1e1e;
-   font-family: Helvetica;
-}
-/*alert style*/
-alert {
-   text-align: left;
-   word-spacing: 30px;
-   margin-left: 5px;
-   font-size:medium;
-   font-size: clamp(2rem, 5vw + 1rem, 7rem);
+   font-size: 2vw;
    padding: 10px;
    background-color: #1e1e1e;
    font-family: Helvetica;
@@ -39,7 +28,7 @@ nav a {
    color: #FFFFFF;
    text-decoration: none;
    font-size: larger;
-   font-size: clamp(2rem, 5vw + 1rem, 7rem);
+   font-size: 2vw;
 }
 a {
    color: #add8e6;
@@ -47,13 +36,13 @@ a {
 .profile h1 {
    text-align: center;
    background-color: #f5f5dc;
-   font-size: clamp(2rem, 5vw + 1rem, 7rem);
+   font-size: 5vw;
 }
 /*footer style*/
 footer {
    text-align: left; 
    font-size: smaller;
-   font-size: clamp(2rem, 5vw + 1rem, 7rem);
+   font-size: 2vw;
    padding: 20px;
    color: #FFFFFF;
    font-family: Helvetica;
@@ -64,7 +53,7 @@ article {
    word-spacing: 5px;
    Padding: 2px;
    font-size: smaller;
-   font-size: clamp(2rem, 3vw + 1rem, 5rem);
+   font-size: 2vw;
    color: #FFFFFF;
    background-color: #1e1e1e;
    font-family: Helvetica;
