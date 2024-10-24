@@ -6,6 +6,8 @@ categories: blog
 status: published
 ---
 
+**protest touches - 27.09.2024**
+
 Curiosity - at a Palestine / Lebanon protest, me and my partner had two encounters that sparked an interesting confluence. One was with a friend of my partners, she’d just had a long term break up and we had a long chat about the difficulties of transitional time. How everything can feel so in flux and flimsy in those moments. We said this having both had break ups from 7 year relationships prior to finding each other. It felt healing.
 
 The other came at a curious moment. After having read [June Jordans - Apologies To All The People In Lebanon][apologies_to_all_the_people] together, we took a moment to contemplate and cry. Musing over the age of the poem, how long this has all gone on for and how overwhelmingly cruel the events of the past week have been, alongside the consideration that I guess this past week was just a slight uptick in what had already been a cruel century, post the Balfour declaration of 1917 and all that it has since wrought.

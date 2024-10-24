@@ -6,6 +6,8 @@ categories: blog
 status: published
 ---
 
+**citation and credit - 20.10.2024**
+
 recently i've been thinking about citation and influence, how we credit the ideas, works and people that inspire us. i think we sorely lack a comprehensive and representative language for how we mark the turning points of the creative process. 
 
 this is part of my love for the social media and link saving site [are.na][arena]. developed after the closure of serveral popular link based apps in the late 2000's, they are one of the few success stories of alternative social media. the beauty of are.na is its placement as both a tool and platform for sharing idea's. it's like a repository of citation, a chain of idea's stretching in every direction, showing all the small things that inform a persons creative process and the people they are in 'dialogue' with as part of that. sort of similar to the maps of old islamic manuscripts, organising locations by their proximity and routes to other locations.
