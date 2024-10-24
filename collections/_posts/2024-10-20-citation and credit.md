@@ -14,10 +14,10 @@ this is part of my love for the social media and link saving site [are.na][arena
 
 
 <p><img src="/assets/img/posts/map.png" height="536" width="536"/></p>
-fig1. excerpt of "Map of Arabia" from the *Book of Roads and Kingdoms*
+<mark>fig1. excerpt of "Map of Arabia" from the <i>Book of Roads and Kingdoms</i></mark>
 
 <p><img src="/assets/img/posts/arenaconnections.png" height="702" width="358"/></p>
-fig2 screenshot of the are.na connections tab.
+<mark>fig2 screenshot of the are.na connections tab.</mark>
 
 
 despite the impression given by art shows, artist interviews and the commercial culture of *the artistic creative*, nothing happens in a vacuum. i feel the biggest influence on my work is the moments of conversing with friends, lovers, acquaintances and strangers, not necessarily just the moments of bouncing ideas for works off of people, but even the smaller conversations. how we are feeling recently, what we've done and the texture of the current season.
