@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "postcards and choreography"
-date:   2025-01-20 22:00:35 +0100
+date:   2025-01-21 07:00:35 +0100
 categories: blog
 status: published
 ---
