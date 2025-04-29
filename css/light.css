@@ -35,7 +35,7 @@ nav a {
 }
    a:hover {
     color:#ff0000;
-    text-shadow: 0 0 1vw white;
+    text-shadow: 0 0 1vw red;
     text-
 }
 a {
@@ -76,7 +76,7 @@ imageContainer {
 :root {
    font-family: Helvetica;
    color: #1e1e1e;
-   background-color: #CCCCCC;
+   background-color: #FFFFFF;
 }
 .dark-mode {
    color: #FFFFFF;
