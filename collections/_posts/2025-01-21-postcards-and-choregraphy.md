@@ -6,8 +6,6 @@ categories: blog
 status: published
 ---
 
-**postcards and choreography - 21.01.2025**
-
 a reintroduction to my world the past few years has been the postcard. i don't particularly remember receiving many as a kid but i do remember sending them whenever we moved (and we moved a lot!), normally to mark the move and make a gesture at staying in touch that would invariably never last. it wasn't until receiving my first postcard in over a decade, from my partner agnes, that i began to re-engage with this form of short letter writing. we've been trading them back and forth for over a year now, its been nice.
 
 postcards are mostly very private things, two sides, one for display and the other for a private message, normally an expression of missing someone, or a recounting of a holiday etc. one for public, one for private. each one feels very special and tender. 
@@ -49,6 +47,8 @@ hopefully i'll be able to share more of my plans for this soon. watch this space
 )°(
 
 happy new year <3 
+
+**21.01.2025 - postcards and choreography**
 
 [kat][kat_website]
 

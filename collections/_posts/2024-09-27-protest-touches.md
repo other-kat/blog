@@ -6,8 +6,6 @@ categories: blog
 status: published
 ---
 
-**protest touches - 27.09.2024**
-
 Curiosity - at a Palestine / Lebanon protest, me and my partner had two encounters that sparked an interesting confluence. One was with a friend of my partners, she’d just had a long term break up and we had a long chat about the difficulties of transitional time. How everything can feel so in flux and flimsy in those moments. We said this having both had break ups from 7 year relationships prior to finding each other. It felt healing.
 
 The other came at a curious moment. After having read [June Jordans - Apologies To All The People In Lebanon][apologies_to_all_the_people] together, we took a moment to contemplate and cry. Musing over the age of the poem, how long this has all gone on for and how overwhelmingly cruel the events of the past week have been, alongside the consideration that I guess this past week was just a slight uptick in what had already been a cruel century, post the Balfour declaration of 1917 and all that it has since wrought.
@@ -19,6 +17,8 @@ Eventually he left, but as we dispersed from the protest to get some food before
 This feels grandiose and indulgent to say about my own intimate relationship, but maybe that makes it more important to admit to feeling. A relationship thats also re-built my own notions of hope in the world at large. One that has made me feel strong enough and brave enough to risk arrest, go to the dicer protests and actions, that I previously only had the courage to do due to disregard for my own well being and safety. Now I feel brave enough to thread the needle of both opposition but also the fear that comes with it. That if it feels too much I can clutch her hand tight and feel the warmth of that shared courage we carry between us. 
 
 Maybe thats what the man saw when he asked us why we have hope. Because seeing the potential of something in someone else can give permission for you to freely pursue it yourself. Its maybe a bit of a fantasy but one that feels more harmful to doubt then to keep close. Maybe its important to express your love loudly, instead of it feeling like an imposition maybe it can feel like a permission.
+
+**27.09.2024 - protest touches**
 
 [kat][kat_website]
 

@@ -6,8 +6,6 @@ categories: blog
 status: published
 ---
 
-<u>politics of friction in trans identity - 18.09.2025</u>
-
 
 I've taken a pause in recent years from discussing or really commenting on my transness on public platforms, mostly from an exhaustion with the ways in which its dominated my adult life, but also because I've not really known what to say or how to comment on things. Reading Shon Faye's recent eulogy for the "trans rights" movement, I feel compelled to say something. The  movement is dead, however, it never held the capacity for progress in the first place.
 
@@ -32,3 +30,7 @@ While markets have tried to assimilate transness, there is a core part that both
 This gives me some hope among things getting harder. Despite movements towards nostalgia and frictionless consumption (identified deftly under studies of Hauntology), otherness persists, all be it in sparse places. As a culture we've existed outside of legal, cultural and social lines of legibility and will continue to do so. 
 
 Though maybe the breathing room of the last few years has allowed us to further establish our own support networks and survival strategies, leaving us somewhat less isolated. Additionally, more people are publicly out than ever before. More people have to encounter us in everyday life. They have to acknowledge and confront (on some level) what we represent. That the unknowable/ illegible exists in the mundane, but more importantly, that they are also illegible to themselves. That friction is common in any network, regardless of the comfort provided by the known. Worse yet, that the unknowable is alluring. 
+
+<u>18.09.2025 - politics of friction in trans identity</u>
+
+[kat][kat_website]

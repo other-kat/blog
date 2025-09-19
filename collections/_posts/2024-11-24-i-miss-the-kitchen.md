@@ -6,8 +6,6 @@ categories: blog
 status: published
 ---
 
-**i miss the kitchen - 24.11.2024**
-
 back in 2018, fresh out of a postgrad in experimental music and struggling to make rent, i got a job working in **paradise slice**, a pizza shop located on brick lane, east londons tourist hub and food street (note, far from my favourite, just the most popular). **paradise slice** was part dysfunctional family, part slice shop/resturant and part makeshift cookery school. while you'd start at the counter, taking orders, pouring drinks and prepping, after about a week or two, you'll get your time at the make station. 
 
 <p><img src="/assets/img/posts/kitchengroup.jpeg" height="427" width="640"/></p>
@@ -27,6 +25,8 @@ the balance was physically and mentally exhaustive, leaving me achy, underslept,
 my own time to leave came in 2019. looking for something with more stable hours, better pay and tangentally related to art, i took a job as a videographer at a local gallery. i returned once to work an event and catch up with my old colleagues but was sadly too late to return as a customer before **paradise** shut in 2020, a victim of raising rent prices and the damage COVID19 and a lack of proper governmental protections did to the service industry. 
 
 i'll always remember those times, though the synchronicity with which i moved through kitchen and the rehearsal space, and in my facination in how we move through comfortable and uncomfortable space.
+
+**24.11.2024 - i miss the kitchen**
 
 [kat][kat_website]
 

@@ -34,12 +34,12 @@ nav a {
    font-size: 2vw;
 }
    a:hover {
-    color:#ff0000;
-    text-shadow: 0 0 1vw red;
+    color:#008ECC;
+    text-shadow: 0 0 2vw white;
     text-
 }
 a {
-   color: #ff0000;
+   color: #008ECC;
 }
 .profile h1 {
    text-align: center;
@@ -62,10 +62,6 @@ article {
    font-size: smaller;
    font-size: 2vw;
 }
-.dark-mode {
-   color: #FFFFFF;
-   background-color: #1e1e1e;
-}
 imageContainer {
    position: fixed;
    max-height: 40vh;
@@ -74,13 +70,9 @@ imageContainer {
 }
 
 :root {
-   font-family: Helvetica;
-   color: #1e1e1e;
-   background-color: #FFFFFF;
-}
-.dark-mode {
+   font-family: Cotham;
    color: #FFFFFF;
-   background-color: #1e1e1e;
+   background-color: #0D0D0D;
 }
 
 @media (prefers-color-scheme: dark) {
