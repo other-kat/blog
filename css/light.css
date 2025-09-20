@@ -77,21 +77,21 @@ imageContainer {
 
 @media (prefers-color-scheme: dark) {
    :root {
-   color: #FFFFFF;
-   background-color: #1e1e1e;
+   color: #FFFFF0;
+   background-color: #0D0D0D;
    }
    a {
-      color: #a4dd00;
+      color: #FF69B4;
    }
    nav a {
-   color: #FFFFFF;
+   color: #FFFFF0;
    text-decoration: none;
    font-size: larger;
    font-size: 2vw;
 }
    a:hover {
-    color:#a4dd00;
-    text-shadow: 0 0 1vw white;
+    color:#FF69B4;
+    text-shadow: 0 0 2vw white;
     text-
 }
 }

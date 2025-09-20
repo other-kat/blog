@@ -31,7 +31,7 @@ This gives me some hope among things getting harder. Despite movements towards n
 
 Though maybe the breathing room of the last few years has allowed us to further establish our own support networks and survival strategies, leaving us somewhat less isolated. Additionally, more people are publicly out than ever before. More people have to encounter us in everyday life. They have to acknowledge and confront (on some level) what we represent. That the unknowable/ illegible exists in the mundane, but more importantly, that they are also illegible to themselves. That friction is common in any network, regardless of the comfort provided by the known. Worse yet, that the unknowable is alluring. 
 
-In writing this, I wish to provide a change of outlook on the current despair present in the community. Not to say it isn't valid. Things are scary and sad and overwhelming. But maybe this was inevitable when banking on a recognition. I stand hopeful, though it's a struggle at times, that we can building something out of that incompatibility, just as we have before. 
+In writing this, I wish to provide a change of outlook on the current despair present in the community. Not to say it isn't valid. Things are scary and sad and overwhelming. But maybe this was inevitable when banking on recognition. I stand hopeful, though it's a struggle at times, that we can building something out of that incompatibility, just as we have before. 
 
 <u>18.09.2025 - politics / friction / trans identity</u>
 
