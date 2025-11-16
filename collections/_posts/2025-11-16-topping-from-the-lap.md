@@ -10,7 +10,7 @@ sex, games and transexualism
 
 (disclaimer: i use the term 'transexualism' as, to me, it describes the radical and jagged edges of gender, that incapsulates its political and revolutionary potential. for me, 'transgender' feels too comfortable, too malleable and too marketable as a term built in response to transness entering public discourse. i am non-binary and my use of this term is not a commentary on anyones identity or others use of the word 'transgender')
 
-there is something magical about the game [Hardcoded][hardcoded]. it's an indie game by Ghosthug games about fucking trans people, among other things. i first came across it in a Rock, Paper, Shotgun article, where the amazing Astrid Johnson, wrote a piece exploring trans sex in video games.
+there is something magical about the game [Hardcoded][hardcoded]. it's an indie game by Ghosthug games about fucking trans people, among other things. i first came across it in a [Rock Paper Shotgun article][rockpapershotgun], where the amazing Astrid Johnson, wrote a piece exploring trans sex in video games.
 
 you play as HC (an abbreviation of Hardcoded), a trans android on the run from the authorities, who is taken in by a small community of non-android trans femme's representing different archetypes. around the same time, there is a city wide outbreak of horniness that sets the pretext for why everyone is interested in fucking you in particular. 
 
@@ -33,7 +33,7 @@ don't get me wrong, liberation won't come from solely from depictions of trans s
 my favourite piece of trans feminist writing is [Julia Serano's][jserano] Love Rant. it's short, but punchy and epitomises the honest, radical and political edge of transsexualism, that made me feel comfortable to embrace the rougher edges of my self. it talks about depression, anger, love, joy and penis' and acts as a rallying cry for the types of dialogues we should be having. with ourselves, but also with others. please go read it.
 
 <p><img src="/assets/img/posts/loverant.png" height="auto" width="100%"/></p>
-<mark>peak aesthetics</mark>
+<mark>love rant</mark>
 
 in lack of much of a conclusion, i guess i want to generally rally for more open conversations around trans sex. or just sex in general. and more media brave enough to depict it. i'm bored of seeing these very marketable and 'family friendly' takes on trans identity. yes "trans joy is resistance" but only when properly contextualised with everything else. my joy matters because its happening around an understanding of how brutal it can be to wake up nearly everyday to news stories about how dangerous and threatening you are. how that can warp your sense of self. how it can damage your understanding of yourself. that joy becomes radical because its a sign that, despite how i can fear my own body, when given the space and acceptance of those closest to me, i stop feeling dangerous and scary. i feel joy.
 
@@ -42,6 +42,7 @@ in lack of much of a conclusion, i guess i want to generally rally for more open
 [kat][kat_website]
 
 [kat_website]: https://otherkat.com/
+[rockpapershotgun]: https://www.rockpapershotgun.com/hardcoded-lets-trans-women-be-horny-without-being-a-fetish
 [hardcoded]: https://yoplatz.itch.io/hardcoded
 [ftw]: https://www.mirabellwether.com/
 [jserano]: https://www.juliaserano.com/writings.html
