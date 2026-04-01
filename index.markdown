@@ -11,7 +11,7 @@ layout: home
 		{% assign posts = site.posts | sort: date | reverse %}
 		{% if post.status == 'published' %}
 		{% endif %}
-		{% for post in posts limit:5  %}
+		{% for post in posts limit:50  %}
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br>
 		{{ post.content | truncatewords:50}}<br><br>
 		{% endfor %}
