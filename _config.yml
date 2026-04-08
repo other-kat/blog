@@ -21,7 +21,6 @@
 title: blog
 email: katmacdonald@protonmail.com
 description: performance, sound and visual artist. i write things too. this is the place for some of that stuff.
-baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.otherkat.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
