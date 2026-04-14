@@ -34,12 +34,11 @@ nav a {
    font-size: 2vw;
 }
    a:hover {
-    color:#008ECC;
-    text-shadow: 0 0 2vw white;
-    text-
+    color:#0000ee;
+    text-shadow: 0 0 2vw blue;
 }
 a {
-   color: #008ECC;
+   color: #0000ee;
 }
 .profile h1 {
    text-align: center;
@@ -71,17 +70,17 @@ imageContainer {
 
 :root {
    font-family: Cotham;
-   color: #FFFFFF;
-   background-color: #0D0D0D;
+   color: #1e1e1e;
+   background-color: #FFFFFF;
 }
 
 @media (prefers-color-scheme: dark) {
    :root {
    color: #FFFFF0;
-   background-color: #0D0D0D;
+   background-color: #1e1e1e;
    }
    a {
-      color: #FF69B4;
+      color: #40E0D0;
    }
    nav a {
    color: #FFFFF0;
@@ -90,9 +89,8 @@ imageContainer {
    font-size: 2vw;
 }
    a:hover {
-    color:#FF69B4;
+    color:#40E0D0;
     text-shadow: 0 0 2vw white;
-    text-
 }
 }
 
