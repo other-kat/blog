@@ -6,7 +6,7 @@ categories: blog
 status: published
 ---
 
-<i>“The other Algerians present in the room would receive the echo of this voice through the privileged interpreter who, at the end of the broadcast, was literally besieged. Specific questions would then be asked of this incarnated voice. Those present wanted to know about a particular battle mentioned by the French press in the last twenty-four hours, and the interpreter, embarrassed, feeling guilty, would sometimes have to admit that the Voice had not mentioned it.”</i>
+<i>“The other Algerians present in the room would receive the echo of this voice through the privileged interpreter who, at the end of the broadcast, was literally besieged. Specific questions would then be asked of this incarnated voice. Those present wanted to know about a particular battle mentioned by the</i> <i>French press in the last twenty-four hours, and the interpreter, embarrassed, feeling guilty, would sometimes have to admit that the Voice had not mentioned it.”</i>
 
 <mark>Frantz Fanon, This is Voice of Algeria, from A Dying Colonialism (1959)</mark>
 
