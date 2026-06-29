@@ -15,5 +15,4 @@ layout: home
 <a href="{{ post.url }}">{{ post.title }} - {{ post.date | date: "%d/%m/%Y" }}</a><br>
 		{{ post.content | truncatewords:50}}<br><br>
 		{% endfor %}
-
 <a href="/posts/">more</a>

@@ -43,6 +43,16 @@ Despite the convenience of Better Gyms, my favourite place to swim in London is 
 
 <u>24.06.2026 - the right to swim</u>
 
+<p>more -></p>
+<div id="post">
+		{% assign posts = site.posts | sort: date | reverse %}
+		{% if post.status == 'published' %}
+		{% endif %}
+		{% for post in posts limit:3  %}
+<a href="{{ post.url }}">{{ post.title }}</a><br>
+		{% endfor %}
+</div>
+
 [kat][kat_website]
 
 [kat_website]: https://otherkat.com/
